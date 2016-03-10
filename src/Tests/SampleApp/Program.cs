@@ -29,7 +29,7 @@ namespace SampleApp
                     City = "Brawley",
                     Company = "City of Brawley",
                     Name = "John Doe",
-                    Zip = "90210",
+                    Zip = "92227",
                     State = new State
                     {
                         Abbreviation = "AZ"
